@@ -1,6 +1,4 @@
-Here's the README file written in a similar style:
 
----
 
 # Solidity Error Handling Assessment
 
